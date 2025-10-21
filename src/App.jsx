@@ -8,7 +8,7 @@ function App() {
     <>
       <div className='min-h-screen bg-Grey-900 flex items-center justify-center text-white'>
         <div className='bg-Grey-800 rounded-lg p-10 text-center flex flex-col items-center'>
-          <img src="/assets/images/avatar-jessica.jpeg" alt="user profile" className='rounded-full size-24'/>
+          <img src="assets/images/avatar-jessica.jpeg" alt="user profile" className='rounded-full size-24'/>
           <div className='text-3xl font-semibold'>Jessica Randall</div>
           <div className='text-sm text-green-400 font-semibold'>London, United Kingdom</div>
           <div>"Front-end developer and avid reader"</div>

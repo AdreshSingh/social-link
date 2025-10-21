@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy":"gh-pages -d dist"
   },
-  "homepage": "https://arpit-devank.github.io/social-link/",
+  "homepage": "https://adreshsingh.github.io/social-link/",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "react": "^19.1.1",
